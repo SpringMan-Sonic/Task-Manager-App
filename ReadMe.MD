@@ -2,6 +2,8 @@
 
 A modern, full-stack task management application built with React, Node.js, Express, and MongoDB. Features beautiful gradients, smooth animations, and secure JWT authentication.
 
+Live Demo: https://task-manager-app-six-blue.vercel.app/
+
 ![Tech Stack](https://img.shields.io/badge/React-18.2.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
